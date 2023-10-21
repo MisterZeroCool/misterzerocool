@@ -65,4 +65,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misterzerocool)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MisterZeroCool)
