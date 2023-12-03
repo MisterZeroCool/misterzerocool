@@ -13,7 +13,7 @@
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Aleksandr_Android_Dev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aleksandr_Gavrilyuk_Android_dev) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:one1970zero@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-AleksandrAndroidDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aleksandr_Android_dev) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:one1970zero@mail.ru)
 
 ---
 
